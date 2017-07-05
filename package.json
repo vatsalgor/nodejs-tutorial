@@ -1,0 +1,34 @@
+{
+  "name": "nodejs-tuts",
+  "version": "0.0.1",
+  "description": "This is simple nodejs tutorials for learning purpose",
+  "main": "myfirst.js",
+  "dependencies": {
+    "upper-case": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatsalgor/nodejs-tuts.git"
+  },
+  "keywords": [
+    "nodejs",
+    "nodejs",
+    "tutotrials",
+    "nodejs",
+    "sample",
+    "program",
+    "nodejs",
+    "sample",
+    "code"
+  ],
+  "author": "vatsal gor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vatsalgor/nodejs-tuts/issues"
+  },
+  "homepage": "https://github.com/vatsalgor/nodejs-tuts#readme"
+}
